@@ -4,7 +4,7 @@ This project applies machine learning techniques to predict an individual's risk
 
 ## 📊 Project Goals
 - Clean and preprocess COVID-19 survey data
-- Perform feature selection and normalization
+- Perform feature selection and normalisation
 - Train and evaluate **Decision Tree** and **K-Nearest Neighbours (KNN)** classifiers
 - Interpret model results to identify influential risk factors
 
@@ -22,11 +22,11 @@ This project applies machine learning techniques to predict an individual's risk
 
 ## 📁 Files
 - `Covid19_MachineLearning_Project.ipynb`: Cleaned and annotated Jupyter notebook
-- Dataset: `covid_survey.csv` (or a placeholder if dataset is not public)
+- Dataset: `Dataset-processed.csv` 
 
 ## 🧠 Key Insights
 - Age, contact frequency, and symptoms like loss of smell were key predictors
-- Feature normalization was essential for KNN performance
+- Feature normalisation was essential for KNN performance
 - The Decision Tree model offered strong interpretability with competitive accuracy
 
 ## 🔄 Reproducibility
